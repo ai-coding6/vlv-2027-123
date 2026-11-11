@@ -1,2 +1,3 @@
-# vlv-2027-123
+# Summarecon Villaggio Outlets · Strategy 2027–29
 
+Villaggio La Vita report (static site). Open index.html. Prepared by Abdullah Sayeed Asraf.
